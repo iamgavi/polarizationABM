@@ -1,5 +1,5 @@
-import numpy as np
 import os
+import numpy as np
 from multiprocessing import Pool
 from sim_utilities import *
 from sim_dyn import *
